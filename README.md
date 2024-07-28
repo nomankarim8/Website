@@ -1,6 +1,4 @@
-To create a `README.md` file for your HTML project, you can include various sections such as a project description, features, technologies used, and how to run the project. Here's a sample `README.md` based on the provided HTML template:
 
----
 
 # Noman Website
 
@@ -74,4 +72,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to modify the `README.md` content according to your project specifics and any additional information you want to include.
