@@ -63,7 +63,7 @@ legend{display:none;}
 label, input, textarea, select, button{display:block; resize:none; outline:none; color:inherit; font-size:inherit; font-family:inherit; vertical-align:middle;}
 label{margin-bottom:5px;}
 :required, :invalid{outline:none; box-shadow:none;}
-::placeholder{opacity:1;}/* Makes sure the placeholder text is not transparent */
+::placeholder{opacity:1;}/*  */
 
 
 /* Generalise
