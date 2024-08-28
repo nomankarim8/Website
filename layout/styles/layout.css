@@ -487,7 +487,7 @@ table a, #comments a{background-color:inherit;}
 	#testimonials article{max-width:80%;}
 	#latest > li{margin:0 auto 50px;}
 
-	.#footer{}
+	#footer{}
 	#footer .latestimg > li, #footer .latestimg > li:nth-last-child(-n+3){display:inline-block; float:none; width:auto; margin:0 5% 5% 0;}
 	#footer .latestimg > li:last-child{margin-bottom:0;}
 	#footer .latestimg > li img{width:auto;}
