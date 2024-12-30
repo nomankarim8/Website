@@ -5,6 +5,7 @@ jQuery("#backtotop").click(function () {
         scrollTop: 0
     }, 600);
 });
+
 jQuery(window).scroll(function () {
     if (jQuery(window).scrollTop() > 150) {
         jQuery("#backtotop").addClass("visible");
