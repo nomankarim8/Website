@@ -1,8 +1,6 @@
 ![logo]( https://github.com/nomankarim8/nomankarim8/blob/main/image.png?raw=true )
 
 # Noman Website
-
-
 This is a personal website template for Sukumar Chandra Suvas, showcasing his professional background, achievements, and blog posts. The site includes sections like a contact header, about, services, testimonials, and a blog.
 
 ## Table of Contents
